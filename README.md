@@ -5,6 +5,7 @@ my c and cpp study, notes and codes.
 - [理解指针](./C/understand_pointer.md)
 - [用C模拟实现虚函数](./C/c_virtual_function_impl.md)
 - [理解C中的include](./C/c-include.md)
+- [C与Rust变量声明对比](./C/c-rust%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E5%AF%B9%E6%AF%94.md)
 - [Linux进程间通信——管道](./C/Linux进程间通信/管道.md)
 - [Linux进程间通信——信号](./C/Linux进程间通信/信号.md)
 - [多线程编程](./C/多线程编程.md)
@@ -22,6 +23,7 @@ my c and cpp study, notes and codes.
 - [C++中空类和空结构体大小的问题](./C++/C++中空类和空结构体大小的问题.md)
 - [C++虚函数的工作原理](./C++/C++虚函数的工作原理.md)
 - [C++虚析构函数](./C++/C++虚析构函数.md)
+- [C++学习笔记](./C++学习笔记.md)
 
 #### STL
 - [STL常用序列容器学习笔记](./C++/STL/STL常用序列容器学习笔记.md)
