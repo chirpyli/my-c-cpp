@@ -7,7 +7,6 @@ class A {
 
 ### 代码求解
 ```c++
-#include "stdafx.h"
 #include<iostream>
 using namespace std;
 
@@ -17,15 +16,20 @@ class A {
 struct B {
 };
 
-int main() {
+int main()
+{
 	cout << sizeof(A) << endl;
 	cout << sizeof(B) << endl;
-	system("pause");
+
     return 0;
 }
 ```
 运行结果：
-![这里写图片描述](https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNzEyMjIxMDE3NTYw?x-oss-process=image/format,png)
+```sh
+[postgres@slpc my-doc]$ ./a.out 
+1
+1
+```
 
 可以看到C++中空类和空结构体的大小都是1。
 
