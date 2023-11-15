@@ -43,4 +43,4 @@ my c and cpp study, notes and codes.
 请跳转至[chirpyli/my-rust](https://github.com/chirpyli/my-rust)
 
 ### epoll
-请跳转至[chirpyli/echo-epoll](https://github.com/chirpyli/echo-epoll)
+[echo-epoll](./echo-epoll/README.md)
